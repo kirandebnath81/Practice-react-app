@@ -1,2 +1,2 @@
-# Practice-react-app
+# music-recommend
 Created with CodeSandbox
